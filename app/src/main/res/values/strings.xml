@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RectDemo</string>
+    <string name="btn_get_location">获取位置</string>
+</resources>
